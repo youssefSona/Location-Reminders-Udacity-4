@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436452605946",
+    "project_id": "location-reminders-by-sona",
+    "storage_bucket": "location-reminders-by-sona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436452605946:android:9df695a35e8d3830fc2e43",
+        "android_client_info": {
+          "package_name": "com.udacity.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436452605946-njoojov18enlqmb0s902su68rverebqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.project4",
+            "certificate_hash": "3989c74104f1fdf20a96e908f946213f4b64dc32"
+          }
+        },
+        {
+          "client_id": "436452605946-bka95mpo8qu6p5k9tdkgt787g4528g2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wIIo_BGW0s53fiONJk5igBUiWB2cbHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436452605946-bka95mpo8qu6p5k9tdkgt787g4528g2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
